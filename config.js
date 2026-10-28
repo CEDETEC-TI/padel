@@ -1,5 +1,5 @@
 // ============================================================
-// CONFIGURACIÓN — Bandeja Pádel (demo)
+// CONFIGURACIÓN — NachoAcademia (demo)
 // Todo el contenido de este sitio es de ejemplo. Para reutilizar
 // esta plantilla con un cliente real, basta con editar los valores
 // de este archivo — el resto del sitio (index.html) no necesita
@@ -8,14 +8,14 @@
 
 const CONFIG = {
   // ---- Datos de la academia ----
-  nombre: "Bandeja Pádel",
+  nombre: "NachoAcademia",
   ciudad: "Formosa Capital",
   tagline: "Aprendé a jugar al aire libre",
 
   // ---- Contacto (de ejemplo) ----
   whatsapp: "5493704111222",
   whatsappDisplay: "+54 370 411-1222",
-  instagram: "bandeja.padel",
+  instagram: "nachoacademia",
 
   // ---- Ubicación (de ejemplo) ----
   direccion: "Av. Gutnisky 3450, Formosa Capital",
